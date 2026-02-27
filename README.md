@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### The Measure of a Man Is What He Does With Power
+#### ---- Plato ----
 <!--
 **don-majidi/don-majidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
