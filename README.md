@@ -5,7 +5,7 @@
 
 This profile contains all the projects that I have (co-)authored during my research activities.
 
-**Disclaimer:** All public repositories are published under the GPL-3.0 license for the sole purpose of sharing and disseminating knowledge within the econometric community. The author(s) are not responsible for any use, personal or professional, that may be made of them. [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+**Disclaimer:** All public repositories are published under the GPL-3.0 license for the sole purpose of sharing and disseminating knowledge within the econometric community. The author(s) are not responsible for any use, personal or professional, that may be made of them. For more information, please consult the official webpage of the GNU General Public License: [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Research Focus
 * Estimation of covariance matrices for high dimensional time-series data using the __Ledoit & Wolf__ non-linear shrinkage estimator.
