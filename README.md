@@ -11,7 +11,7 @@ This profile contains all the projects that I have (co-)authored during my resea
 * Estimation of covariance matrices for high dimensional time-series data using the __Ledoit & Wolf__ non-linear shrinkage estimator.
 
 > [!NOTE]
-> The content of this research is currently held in a private repository as it is part of an ongoing Master's thesis.
+> The content of this research is not yet publicly available as it is part of an ongoing Master's thesis.
 
 * State space modeling of macroeconomic time-series data and Python implementation of the EM-algorithm.
 
