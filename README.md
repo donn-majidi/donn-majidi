@@ -17,12 +17,12 @@ This profile contains all the projects that I have (co-)authored during my resea
 
 ## Technical Stack
 * **Languages:** `Python` `Matlab`
-* **Libraries:** `NumPy` `SciPy` `Pandas` `Statsmodels`
+<!-- * **Libraries:** `NumPy` `SciPy` `Pandas` `Statsmodels`
 * **Documentation:** `LaTeX`
-
-## Contact
+-->
+<!-- ## Contact
 * **LinkedIn:** [linkedin.com/in/shahriyar-majidi/](https://linkedin.com/in/shahriyar-majidi/)
-
+-->
 <!--
 **don-majidi/don-majidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
