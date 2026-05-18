@@ -15,7 +15,7 @@ This profile contains all the projects that I have (co)-authored during my resea
 > [!NOTE]
 > The content of this research is not yet publicly available as it is part of an ongoing Master's thesis.
 
-* State space modeling of macroeconomic time-series data and Python implementation of the EM-algorithm.
+* State space modeling of macroeconomic time-series data and Python implementation of DFM state space models.
 
 ## Technical Stack
 * **Languages:** `Python` `Matlab`
