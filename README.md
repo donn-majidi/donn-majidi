@@ -15,7 +15,10 @@ This profile contains all the projects that I have (co)-authored during my resea
 > [!NOTE]
 > The content of this research is not yet publicly available as it is part of an ongoing Master's thesis.
 
-* State space modeling of macroeconomic time-series data and Python implementation of DFM state space models.
+* State space modeling of dynamic factor models and Python implementation of their common estimation schemes.
+
+## Latest
+* The ABC criterion of Alessi, Barigozzi, and Capasso (2010) for estimating the number of common factors in a data set is now fully implemented in Python. The code can be found in the unibo-dfm-x-py repository source files.
 
 ## Technical Stack
 * **Languages:** `Python` `Matlab`
