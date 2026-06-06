@@ -18,7 +18,7 @@ This profile contains all the projects that I have (co)-authored during my resea
 * State space modeling of dynamic factor models and Python implementation of their common estimation schemes.
 
 ## Updates
-* The ABC criterion of Alessi, Barigozzi, and Capasso (2010) for estimating the number of common factors in a data set is now fully implemented in Python. The code can be found in the unibo-dfm-x-py repository source files.
+* The ABC criterion of Alessi, Barigozzi, and Capasso (2010) for estimating the number of common factors is now fully implemented in Python. The code can be found in unibo-dfm-x-py repository source files.
 
 ## Technical Stack
 * **Languages:** `Python` `Matlab`
